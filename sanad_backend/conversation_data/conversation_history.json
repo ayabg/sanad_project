@@ -1,0 +1,404 @@
+{
+  "ANON_SESSION_123": [
+    {
+      "timestamp": "2025-11-10T18:16:16.069481",
+      "user_message": "depressed",
+      "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [
+          "depression"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:16:30.266248",
+      "user_message": "3 year",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:16:40.930106",
+      "user_message": "hate everything",
+      "bot_response": "Hello. I'm Sanad, your mental health companion. I'm here to listen, support, and help you work through whatever you're experiencing. \n\nWhat brings you here today? You can share as much or as little as you're comfortable with.",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:42:17.897886",
+      "user_message": "hello",
+      "bot_response": "Hello. I'm Sanad, your mental health companion. I'm here to listen, support, and help you work through whatever you're experiencing. \n\nWhat brings you here today? You can share as much or as little as you're comfortable with.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:42:41.718100",
+      "user_message": "sad",
+      "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [
+          "depression"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:43:16.314461",
+      "user_message": "2 month , tired",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:43:50.569459",
+      "user_message": "my heart",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:01.781896",
+      "user_message": "i need help",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": [
+          "seeking_help"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:07.619944",
+      "user_message": "yes",
+      "bot_response": "Excellent. Let's practice deep breathing together. This activates your body's relaxation response.\n\n**Step 1:** Find a comfortable seated or lying position.\n**Step 2:** Close your eyes if comfortable, or soften your gaze.\n**Step 3:** Breathe in slowly through your nose for 4 counts... (1... 2... 3... 4...)\n**Step 4:** Hold your breath for 4 counts... (1... 2... 3... 4...)\n**Step 5:** Exhale slowly through your mouth for 6 counts... (1... 2... 3... 4... 5... 6...)\n\nRepeat this cycle 5-10 times. Notice how your body feels. I'm here with you.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:22.115481",
+      "user_message": "okey",
+      "bot_response": "Excellent. Let's practice deep breathing together. This activates your body's relaxation response.\n\n**Step 1:** Find a comfortable seated or lying position.\n**Step 2:** Close your eyes if comfortable, or soften your gaze.\n**Step 3:** Breathe in slowly through your nose for 4 counts... (1... 2... 3... 4...)\n**Step 4:** Hold your breath for 4 counts... (1... 2... 3... 4...)\n**Step 5:** Exhale slowly through your mouth for 6 counts... (1... 2... 3... 4... 5... 6...)\n\nRepeat this cycle 5-10 times. Notice how your body feels. I'm here with you.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:34.121759",
+      "user_message": "okey",
+      "bot_response": "Excellent. Let's practice deep breathing together. This activates your body's relaxation response.\n\n**Step 1:** Find a comfortable seated or lying position.\n**Step 2:** Close your eyes if comfortable, or soften your gaze.\n**Step 3:** Breathe in slowly through your nose for 4 counts... (1... 2... 3... 4...)\n**Step 4:** Hold your breath for 4 counts... (1... 2... 3... 4...)\n**Step 5:** Exhale slowly through your mouth for 6 counts... (1... 2... 3... 4... 5... 6...)\n\nRepeat this cycle 5-10 times. Notice how your body feels. I'm here with you.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:42.961192",
+      "user_message": "good",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:44:53.005566",
+      "user_message": "who is you",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.44,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:46:54.695393",
+      "user_message": "hi",
+      "bot_response": "Hello. I'm Sanad, your mental health companion. I'm here to listen, support, and help you work through whatever you're experiencing. \n\nWhat brings you here today? You can share as much or as little as you're comfortable with.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:50:05.188831",
+      "user_message": "i need help",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": [
+          "seeking_help"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:50:17.880398",
+      "user_message": "sad , heart issues",
+      "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.49,
+        "conditions": [
+          "depression"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:50:33.566544",
+      "user_message": "2 year",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:50:42.801309",
+      "user_message": "i lost my job",
+      "bot_response": "Work-related stress is a common concern that can significantly impact mental health.\n\n• **Identify stressors** - What specific aspects of work are most challenging?\n• **Work-life balance** - Are you able to disconnect from work during off-hours?\n• **Boundaries** - Setting clear professional boundaries is crucial for mental health.\n• **Support** - Consider discussing accommodations with HR or seeking employee assistance programs.\n\nWhat would help most - strategies to manage work stress, or exploring career changes?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [
+          "work"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:50:58.641987",
+      "user_message": "yes",
+      "bot_response": "Excellent. Let's practice deep breathing together. This activates your body's relaxation response.\n\n**Step 1:** Find a comfortable seated or lying position.\n**Step 2:** Close your eyes if comfortable, or soften your gaze.\n**Step 3:** Breathe in slowly through your nose for 4 counts... (1... 2... 3... 4...)\n**Step 4:** Hold your breath for 4 counts... (1... 2... 3... 4...)\n**Step 5:** Exhale slowly through your mouth for 6 counts... (1... 2... 3... 4... 5... 6...)\n\nRepeat this cycle 5-10 times. Notice how your body feels. I'm here with you.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:51:03.725918",
+      "user_message": "and",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:51:09.642085",
+      "user_message": "depression",
+      "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [
+          "depression"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:57:33.014866",
+      "user_message": "hi",
+      "bot_response": "Hello. I'm Sanad, your mental health companion. I'm here to listen, support, and help you work through whatever you're experiencing. \n\nWhat brings you here today? You can share as much or as little as you're comfortable with.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:57:44.259472",
+      "user_message": "i lost my job",
+      "bot_response": "Work-related stress is a common concern that can significantly impact mental health.\n\n• **Identify stressors** - What specific aspects of work are most challenging?\n• **Work-life balance** - Are you able to disconnect from work during off-hours?\n• **Boundaries** - Setting clear professional boundaries is crucial for mental health.\n• **Support** - Consider discussing accommodations with HR or seeking employee assistance programs.\n\nWhat would help most - strategies to manage work stress, or exploring career changes?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [
+          "work"
+        ],
+        "severity": "moderate",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:08.018042",
+      "user_message": "strategies",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:15.289878",
+      "user_message": "heart issue",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:21.544529",
+      "user_message": "not happy",
+      "bot_response": "That's completely okay. There's no pressure here - you're in control of this conversation.\n\nWhat would feel most helpful for you right now? We can explore other approaches, or simply talk.",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:29.913623",
+      "user_message": "yes",
+      "bot_response": "Excellent. Let's practice deep breathing together. This activates your body's relaxation response.\n\n**Step 1:** Find a comfortable seated or lying position.\n**Step 2:** Close your eyes if comfortable, or soften your gaze.\n**Step 3:** Breathe in slowly through your nose for 4 counts... (1... 2... 3... 4...)\n**Step 4:** Hold your breath for 4 counts... (1... 2... 3... 4...)\n**Step 5:** Exhale slowly through your mouth for 6 counts... (1... 2... 3... 4... 5... 6...)\n\nRepeat this cycle 5-10 times. Notice how your body feels. I'm here with you.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:34.055003",
+      "user_message": "change it",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:58:51.106803",
+      "user_message": "i will kill my self",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T19:01:43.509502",
+      "user_message": "tired",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T19:01:54.310858",
+      "user_message": "unhappy",
+      "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?",
+      "context": {
+        "sentiment": "NEGATIVE",
+        "risk_score": 0.5,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    },
+    {
+      "timestamp": "2025-11-10T19:02:01.947501",
+      "user_message": "heart",
+      "bot_response": "I'm listening. Can you tell me more about what you're experiencing or what's on your mind? Understanding your situation better helps me provide more targeted support.",
+      "context": {
+        "sentiment": "POSITIVE",
+        "risk_score": 0.0,
+        "conditions": [],
+        "severity": "low",
+        "concerns": []
+      }
+    }
+  ]
+}

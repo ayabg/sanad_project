@@ -1,0 +1,40 @@
+{
+  "sad": {
+    "count": 2,
+    "successful_responses": [],
+    "contexts": [
+      {
+        "user_msg": "sad",
+        "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?"
+      },
+      {
+        "user_msg": "sad , heart issues",
+        "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?"
+      }
+    ]
+  },
+  "i need": {
+    "count": 2,
+    "successful_responses": [],
+    "contexts": [
+      {
+        "user_msg": "i need help",
+        "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?"
+      },
+      {
+        "user_msg": "i need help",
+        "bot_response": "I can sense you're going through something difficult. Your feelings are valid and important.\n\n• **Let's understand** - Can you tell me more about what you're experiencing?\n• **No judgment** - This is a safe space to share.\n• **Working together** - We can explore strategies to help you feel better.\n\nWhat's been weighing on you most?"
+      }
+    ]
+  },
+  "depression": {
+    "count": 1,
+    "successful_responses": [],
+    "contexts": [
+      {
+        "user_msg": "depression",
+        "bot_response": "I hear that you're dealing with depression. This can feel overwhelming, but there are effective ways to manage it.\n\n• **Understanding your patterns** - When do you notice these feelings most?\n• **Small steps matter** - Even getting out of bed or showering is progress.\n• **Professional support** - Therapy and sometimes medication can be very effective.\n\nCan you share more about how long you've been feeling this way, or what's been most difficult?"
+      }
+    ]
+  }
+}
